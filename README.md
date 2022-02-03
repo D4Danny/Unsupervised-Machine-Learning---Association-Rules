@@ -12,7 +12,7 @@ Prepare rules for the all the data sets
 2) Change the minimum length in apriori algorithm
 3) Visulize the obtained rules using different plots 
 
-Datsetse1: [Books Store](https://github.com/D4Danny/Association-Rule-Mining/blob/main/Association%20Rules%20for%20BOOKS.ipynb)
+### Datsetse1: [Books Store](https://github.com/D4Danny/Association-Rule-Mining/blob/main/Association%20Rules%20for%20BOOKS.ipynb)
 
 
 Please find the antecedent and consequent from the different Category of book sold by a book store.
