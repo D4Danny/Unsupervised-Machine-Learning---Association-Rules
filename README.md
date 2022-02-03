@@ -12,7 +12,7 @@ An antecedent is something that’s found in data, and a consequent is an item t
 
 Please find the antecedent and consequent from the different Category of book sold by a book store.
 
-Prepare rules for the all the data sets 
+Prepare rules for the DATASET: BOOKS and MY_MOVIES as pwr below instructions:
 1) Try different values of support and confidence. Observe the change in number of rules for different support,confidence values
 2) Change the minimum length in apriori algorithm
 3) Visulize the obtained rules using different plots 
